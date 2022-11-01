@@ -1,0 +1,3 @@
+[submodule "elevator_button_recognition"]
+	path = elevator_button_recognition
+	url = git@github.com:danissomo/elevator_button_recognition.git
